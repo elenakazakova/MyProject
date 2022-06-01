@@ -1,0 +1,4 @@
+The Global Precipitation Climatology Project (GPCP) Monthly Precipitation Climate Data Record (CDR) consists of monthly satellite-gauge and associated precipitation error estimates taken from January 1979–present. The CDR is created by combining the precipitation information from several satellite and in situ sources into a final merged product that uses the strengths of each data type to create a more accurate record.
+
+Passive Microwave estimates are based on Special Sensor Microwave Imager/Special Sensor Microwave Imager Sounder (SSMI/SSMIS) data; infrared precipitation estimates are included using Geostationary Operational Environmental Satellite (GOES) data and Polar-orbiting Operational Environmental Satellite (POES) data, as well as other low earth orbit data and in situ observations. Data are provided on a 2.5 degree grid.
+
